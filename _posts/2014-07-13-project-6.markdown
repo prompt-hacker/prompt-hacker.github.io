@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: 콘텐츠 기획
+subtitle: 어떻게 우리의 이야기를 잘 전달할 수 있을까요?
 layout: default
 modal-id: 6
 date: 2014-07-15

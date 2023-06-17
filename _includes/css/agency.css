@@ -469,7 +469,7 @@ section h3.section-subheading {
     float: right;
     position: relative;
     width: 100%;
-    padding: 0 20px 0 100px;
+    padding: 0 10px 0 10px;
     text-align: left;
 }
 
@@ -509,7 +509,7 @@ section h3.section-subheading {
 
 .timeline>li.timeline-inverted>.timeline-panel {
     float: right;
-    padding: 0 20px 0 100px;
+    padding: 0 10px 0 10px;
     text-align: left;
 }
 
@@ -558,7 +558,7 @@ section h3.section-subheading {
     .timeline>li .timeline-panel {
         float: left;
         width: 41%;
-        padding: 0 20px 20px 30px;
+        padding: 0 10px 20px 10px;
         text-align: right;
     }
 
@@ -577,7 +577,7 @@ section h3.section-subheading {
 
     .timeline>li.timeline-inverted>.timeline-panel {
         float: right;
-        padding: 0 30px 20px 20px;
+        padding: 0 10px 20px 10px;
         text-align: left;
     }
 }
@@ -624,11 +624,11 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image h4 {
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
-        padding: 0 100px 20px 20px;
+        padding: 0 10px 20px 10px;
     }
 }
 
@@ -865,3 +865,53 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+
+.countdown-container {
+    color: #333;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+.countdown-container h1 {
+    font-weight: normal;
+    letter-spacing: .125rem;
+    text-transform: uppercase;
+  }
+  
+.countdown-container li {
+    display: inline-block;
+    font-size: 1.5em;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+  }
+  
+  .countdown-container  li span {
+    display: block;
+    font-size: 4.5rem;
+  }
+  
+  .countdown-container  .emoji {
+    display: none;
+    padding: 1rem;
+  }
+  
+  .countdown-container  .emoji span {
+    font-size: 4rem;
+    padding: 0 .5rem;
+  }
+  
+  @media all and (max-width: 768px) {
+    .countdown-container   h1 {
+      font-size: calc(1.5rem * var(--smaller));
+    }
+    
+    .countdown-container   li {
+      font-size: calc(1.125rem * var(--smaller));
+    }
+    
+    .countdown-container  li span {
+      font-size: calc(3.375rem * var(--smaller));
+    }
+  }

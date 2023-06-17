@@ -1,17 +1,18 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: 1인기업을 위한 ChatGPT
+email: prompthacker0@gmail.com
+description: "1인기업을 위한 ChatGPT 활용 가이드"
+headline: "AI엔지니어 출신 창업자가 알려주는"
+subheadline: "1인기업을 위한 ChatGPT<br>활용 가이드"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: prompthacker
   pic: 1
-  position: Lead Designer
+  position: prompthacker
   social:
     - title: twitter
       url: #
@@ -20,9 +21,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: geoff
   pic: 2
-  position: Lead Marketer
+  position: CEO
   social:
     - title: twitter
       url: #
@@ -31,16 +32,6 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 카피라이팅
+subtitle: 어떻게 고객에게 진심을 글로 전달할 수 있을까요?
 layout: default
 modal-id: 4
 date: 2014-07-15

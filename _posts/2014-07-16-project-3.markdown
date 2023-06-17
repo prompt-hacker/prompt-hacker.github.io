@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 마케팅 설계
+subtitle: 어떻게 우리 제품을 고객에게 알릴 수 있을까요?
 layout: default
 modal-id: 3
 date: 2014-07-16

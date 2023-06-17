@@ -1,6 +1,6 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: 기업 운영 및 관리
+subtitle: 어떻게 기업을 잘 운영할 수 있을까요?
 layout: default
 modal-id: 5
 date: 2014-07-14

@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 아이템 선정
+subtitle: 어떻게 1인기업 아이템을 정할까요?<br>
 layout: default
 modal-id: 1
 date: 2014-07-18

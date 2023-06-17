@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 제품기획
+subtitle: 어떻게 고객 입장에서 제품을 기획할 수 있을까요?
 layout: default
 modal-id: 2
 date: 2014-07-17
