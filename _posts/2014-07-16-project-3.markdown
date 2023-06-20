@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: 우리의 잠재 고객에게 우리 제품/서비스를 알리고 설득할 수 있는 전반적인 단계를 어떻게 설계하는지 알려드립니다. 
 ---

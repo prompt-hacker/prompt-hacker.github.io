@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 제품/서비스 개발, 마케팅, 영업, 판매만 해서는 1인기업을 운영할 수가 없습니다. 1인기업에 필요한 운영과 관리에 필요한 것들을 알려드립니다.
 
 ---
